@@ -1,6 +1,9 @@
 h1{
   text-align: center;
-  color:rgb(39, 42, 196)
+  color:rgb(39, 42, 196);
+}
+h1:hover{
+  color:rgb(187, 66, 19);
 }
 body{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
